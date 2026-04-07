@@ -23,7 +23,7 @@ b) De suas respostas anteriores compare-as graficamente com as equações de  Le
 c) Repita seus cálculos para as equações:  GNT  para compostos não polares e GNT compostos com ligações de hidrogênio, compare graficamente estas duas equações e explique seu comportamento. Compare finalmente com a equação de Antoine, comente.
 
 
-d) Para os ocmpostos escolhidos, faça um gráfico P vs T, comparando a equação de Antoine, Lee-Kesler e Wagner, com dados experimentais/reais  e em outro gráfico mostre o erro percentual de cada modelo relativo a seus valores experimentais/reais.
+d) Para os compostos escolhidos, faça um gráfico P vs T, comparando a equação de Antoine, Lee-Kesler e Wagner, com dados experimentais/reais  e em outro gráfico mostre o erro percentual de cada modelo relativo a seus valores experimentais/reais.
 
 grupo 1) metano, etano
 grupo 2) CO, CO2, 
